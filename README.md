@@ -1,0 +1,1 @@
+This Power BI project presents an interactive sales dashboard for a soft drinks dataset, designed to help stakeholders quickly understand revenue performance and sales trends across products, regions, and time. The dashboard consolidates key KPIs into a single view so decision-makers can monitor business health and identify growth opportunities.
